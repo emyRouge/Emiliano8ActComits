@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 cambio-001
+=======
+cambio-002
+>>>>>>> fac/i20223tn028-002
+cambio-003
